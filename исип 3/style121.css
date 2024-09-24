@@ -1,0 +1,46 @@
+/*top отвечает за высоту а left за ширину, position отвечает за Realtive (значение свойства position, которое определяет позиционирование элемента относительно его стандартного местоположения на странице).*/
+#div1{
+    width: 500px;
+    height: 700px;
+    background-clip:border-box ;
+    background-color: blue;
+    position: relative;
+    left: 565px;
+  }
+  #div2{
+    width: 350px;
+    height: 70px;
+    background-clip:border-box ;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+    top: -620px;
+    left: 640px;
+  } 
+  #div3{
+    width: 100px;
+    height: 350px;
+    background-clip:border-box ;
+    background-color: rgb(0, 255, 106);
+    position: relative;
+    top: -570px;
+    left: 640px;
+  }
+  #div4{
+    width: 100px;
+    height: 350px;
+    background-clip:border-box ;
+    background-color: rgb(200, 255, 0);
+    position: relative;
+    top: -915px;
+    left: 900px;
+  }
+  /* Белый цвет топ отвечает за высоту а left за ширину, position отвечает за Realtive (значение свойства position, которое определяет позиционирование элемента относительно его стандартного местоположения на странице).*/
+  #div5{
+    width: 350px;
+    height: 70px;
+    background-clip:border-box ;
+    background-color: rgb(255, 253, 253);
+    position: relative;
+    top: -870px;
+    left: 645px;
+  }
